@@ -1,2 +1,2 @@
 # sportssquare
-a weekly Super Bowl game
+like the superbowl, every week.
